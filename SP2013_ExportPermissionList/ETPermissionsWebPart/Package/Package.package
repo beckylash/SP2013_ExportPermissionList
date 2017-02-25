@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="f1ccb66c-6a37-45c8-8978-835ae236e315" solutionId="f1ccb66c-6a37-45c8-8978-835ae236e315" resetWebServer="false" sharePointProductVersion="15.0" name="ETPermissionsWebPart" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="904a1ac6-93d2-4e9d-8a31-aed4e6735522" />
+  </features>
+</package>

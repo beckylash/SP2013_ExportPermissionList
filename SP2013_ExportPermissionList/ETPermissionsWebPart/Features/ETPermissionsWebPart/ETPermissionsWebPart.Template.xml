@@ -1,0 +1,10 @@
+﻿<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="ETPermissionsWebPart " Id="19c3e915-4858-43f9-8bfb-8999ac4ecc69" Scope="Site">
+  <ElementManifests>
+   
+    <ElementManifest Location="ET.Permissions\Elements.xml" />
+    <ElementFile Location="ET.Permissions\InstallationInstructions.docx"/>
+    <ElementFile Location="ET.Permissions\html\SitePermissions.html" />
+    <ElementFile Location="ET.Permissions\js\SitePermissions.js" />
+    <ElementFile Location="ET.Permissions\js\jquery-1.11.2.min.js" />
+  </ElementManifests>
+</Feature>

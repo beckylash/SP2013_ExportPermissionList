@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" DefaultFile="Elements.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="ET.Permissions\" Type="ElementManifest" />
+    <ProjectItemFile Source="InstallationInstructions.docx" Target="ET.Permissions\" Type="ElementFile" />
+    <ProjectItemFile Source="html\SitePermissions.html" Target="ET.Permissions\html\" Type="ElementFile" />
+    <ProjectItemFile Source="js\SitePermissions.js" Target="ET.Permissions\js\" Type="ElementFile" />
+    <ProjectItemFile Source="js\jquery-1.11.2.min.js" Target="ET.Permissions\js\" Type="ElementFile" />
+  </Files>
+</ProjectItem>
