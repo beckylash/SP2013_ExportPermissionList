@@ -1,10 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Elements xmlns="http://schemas.microsoft.com/sharepoint/">
   <Module Name="ET.Permissions" Url="_catalogs/masterpage">
-    <File Path="ET.Permissions\InstallationInstructions.docx" Url="ET.Permissions/InstallationInstructions.docx" ReplaceContent="true" Type="GhostableInLibrary" IgnoreIfAlreadyExists="true" />
     <File Path="ET.Permissions\html\SitePermissions.html" Url="ET.Permissions/html/SitePermissions.html" ReplaceContent="true" Type="GhostableInLibrary" IgnoreIfAlreadyExists="true" />
     <File Path="ET.Permissions\js\SitePermissions.js" Url="ET.Permissions/js/SitePermissions.js" ReplaceContent="true" Type="GhostableInLibrary" IgnoreIfAlreadyExists="true" />
     <File Path="ET.Permissions\js\jquery-1.11.2.min.js" Url="ET.Permissions/js/jquery-1.11.2.min.js" ReplaceContent="true" Type="GhostableInLibrary" IgnoreIfAlreadyExists="true" />
 <File Path="ET.Permissions\css\permissionslist.css" Url="ET.Permissions/css/permissionslist.css" ReplaceContent="true" Type="GhostableInLibrary" IgnoreIfAlreadyExists="true" />
+    <File Path="ET.Permissions\InstallationInstructions.docx" Url="ET.Permissions/InstallationInstructions.docx" ReplaceContent="true" Type="GhostableInLibrary" IgnoreIfAlreadyExists="true"  />
+    <File Path="ET.Permissions\css\permissionslist.css" Url="ET.Permissions/css/permissionslist.css" ReplaceContent="true" Type="GhostableInLibrary" IgnoreIfAlreadyExists="true" />
   </Module>
 </Elements>
