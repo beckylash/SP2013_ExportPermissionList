@@ -25,7 +25,6 @@ To implement:
 
 The Web Part looks like the following picture. The picture also displays the .csv that can be saved to the desktop computer.
 
-https://github.com/BeckyLash/SP2rmissione
 <kbd>
 ![Detail view of permissions web part](/mdimages/permoverview.PNG?raw=true "Detail view of permissions web part
 ")
