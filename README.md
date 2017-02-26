@@ -2,12 +2,13 @@
 
 # SP2013_ExportPermissionList
 Draft project: Small deployable project for SharePoint 2013 sandboxed solution that lists SharePoint groups and members of current site on an HTML page. 
-The HTML page includes a link to export the list of groups and members to a .csv file. Javascript copied and slightly modified from scripts at the 
-following resources:<br>
+The HTML page includes a link to export the list of groups and members to a .csv file. Javascript copied and slightly modified from scripts at the following resources:<br>
 https://msdn.microsoft.com/en-us/library/office/hh185012(v=office.14).aspx <br>
 https://bl.ocks.org/kalebdf/ee7a5e7f44416b2116c0
 
 Requires jQuery.
+
+The solution works in both SharePoint 2010 and SharePoint 2013. 
 
 Deploys html and .js files to AMC.Permissions folder in Master Page gallery for the site collection. 
 
@@ -24,7 +25,11 @@ To implement:
 
 The Web Part looks like the following picture. The picture also displays the .csv that can be saved to the desktop computer.
 
-https://github.com/BeckyLash/SP2013_ExportPermissionList/blob/master/mdimages/permoverview.PNG
+https://github.com/BeckyLash/SP2rmissione
+<kbd>
+![Detail view of dashboard](/ReadMeImages/ETQuickView2.PNG?raw=true "Detail view of dashboard
+")
+</kbd>
 
 Add a Content Editor Web Part to a page and point to the SitePermissions.html file.
 
