@@ -1,4 +1,5 @@
 
+<pre>
 
 # SP2013_ExportPermissionList
 Draft project: Small deployable project for SharePoint 2013 sandboxed solution that lists SharePoint groups and members of current site on an HTML page. 
@@ -20,8 +21,14 @@ To implement:
 
 3. Add the correct path to the following lines:
 
-<link rel="stylesheet" type="text/css" href="http://mydomain/sites/mysite/_catalogs/masterpage/ET.permissions/css/permissionslist.css"><script language="javascript" src="http://mydomain/sites/mysite/_catalogs/masterpage/ET.permissions/js/jquery-1.11.2.min" type="text/javascript"></script>
-<script language="javascript" src="http://mydomain/sites/mysite/_catalogs/masterpage/ET.permissions/js/SitePermissions.js" type="text/javascript"></script>
+ "http://mydomain/sites/mysite/_catalogs/masterpage/ET.permissions/css/permissionslist.css"
+ 
+ "http://mydomain/sites/mysite/_catalogs/masterpage/ET.permissions/js/jquery-1.11.2.min" 
+ 
+
+"http://mydomain/sites/mysite/_catalogs/masterpage/ET.permissions/js/SitePermissions.js" 
+
+
 
 The Web Part looks like the following picture. The picture also displays the .csv that can be saved to the desktop computer.
 
