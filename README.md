@@ -27,7 +27,7 @@ The Web Part looks like the following picture. The picture also displays the .cs
 
 https://github.com/BeckyLash/SP2rmissione
 <kbd>
-![Detail view of dashboard](/ReadMeImages/ETQuickView2.PNG?raw=true "Detail view of dashboard
+![Detail view of permissions web part](/mdimages/permoverview.PNG?raw=true "Detail view of permissions web part
 ")
 </kbd>
 
