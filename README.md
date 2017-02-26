@@ -10,18 +10,18 @@ Requires jQuery.
 
 The solution works in both SharePoint 2010 and SharePoint 2013. 
 
-Deploys html and .js files to AMC.Permissions folder in Master Page gallery for the site collection. 
+Deploys html and .js files to ET.Permissions folder in Master Page gallery for the site collection. 
 
 To implement:
 
 1. At the root of the site collection, browse to the master page gallery. 
 
-2. In AMC.Permissions folder, edit the SitePermissions.html file in Notepad or SharePoint Designer. 
+2. In ET.Permissions folder, edit the SitePermissions.html file in Notepad or SharePoint Designer. 
 
 3. Add the correct path to the following lines:
 
-<link rel="stylesheet" type="text/css" href="http://mydomain/sites/mysite/_catalogs/masterpage/AMC.permissions/css/permissionslist.css"><script language="javascript" src="http://mydomain/sites/mysite/_catalogs/masterpage/AMC.permissions/js/jquery-1.11.2.min" type="text/javascript"></script>
-<script language="javascript" src="http://mydomain/sites/mysite/_catalogs/masterpage/AMC.permissions/js/SitePermissions.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="http://mydomain/sites/mysite/_catalogs/masterpage/ET.permissions/css/permissionslist.css"><script language="javascript" src="http://mydomain/sites/mysite/_catalogs/masterpage/ET.permissions/js/jquery-1.11.2.min" type="text/javascript"></script>
+<script language="javascript" src="http://mydomain/sites/mysite/_catalogs/masterpage/ET.permissions/js/SitePermissions.js" type="text/javascript"></script>
 
 The Web Part looks like the following picture. The picture also displays the .csv that can be saved to the desktop computer.
 
