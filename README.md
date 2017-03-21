@@ -16,8 +16,7 @@ The solution works in both SharePoint 2010 and SharePoint 2013.
 The Web Part looks like the following picture. The picture also displays the .csv that can be saved to the desktop computer.
 
 <kbd>
-![Detail view of permissions web part](/mdimages/permoverview.PNG?raw=true "Detail view of permissions web part
-")
+![Detail view of permissions web part](/mdimages/permoverview.PNG)
 </kbd>
 
 Deploys html and .js files to ET.Permissions folder in Master Page gallery for the site collection. 
