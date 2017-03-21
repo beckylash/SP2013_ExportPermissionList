@@ -30,6 +30,6 @@ To implement:
 
 "http://mydomain/sites/mysite/_catalogs/masterpage/ET.permissions/js/SitePermissions.js" 
 
-Add a Content Editor Web Part to a page and point to the SitePermissions.html file.
+4. Add a Content Editor Web Part to a page and point to the SitePermissions.html file.
 
 The solution can be placed on any page on any site in the site collection, as long as the Content Editor Web Part points to SitePermissions.html at the root of the site collection.
