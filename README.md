@@ -20,7 +20,6 @@ The Web Part looks like the following picture. The picture also displays the .cs
 ")
 </kbd>
 
-
 Deploys html and .js files to ET.Permissions folder in Master Page gallery for the site collection. 
 
 To implement:
